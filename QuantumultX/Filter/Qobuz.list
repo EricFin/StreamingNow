@@ -1,0 +1,5 @@
+# > Qobuz
+HOST-SUFFIX,app-measurement.com
+HOST,sdk.fra-01.braze.eu
+HOST,streaming-qobuz-sec.akamaized.net
+HOST,www.qobuz.com
