@@ -1,4 +1,4 @@
 # > Netflix
-USER-AGENT,Argo*
+USER-AGENT,Argo*,Netflix
 HOST-KEYWORD,netflix
 HOST-KEYWORD,nflx
