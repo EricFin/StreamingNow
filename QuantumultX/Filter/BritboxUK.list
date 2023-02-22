@@ -1,9 +1,9 @@
-# > BritboxUK
-HOST,itvpnp.live.ott.irdeto.com,BritboxUK
-HOST,itvpnp.stage.ott.irdeto.com,BritboxUK
-HOST-SUFFIX,bb-static.com,BritboxUK
-HOST-SUFFIX,bbc.co.uk,BritboxUK
-HOST-SUFFIX,britbox.co.uk,BritboxUK
-HOST-SUFFIX,britbox.com,BritboxUK
-HOST-SUFFIX,itv.com,BritboxUK
-HOST-SUFFIX,massive-itv.com,BritboxUK
+# > BritboxUK-C
+host,itvpnp.live.ott.irdeto.com,BritboxUK-C
+host,itvpnp.stage.ott.irdeto.com,BritboxUK-C
+host-suffix,bb-static.com,BritboxUK-C
+host-suffix,bbc.co.uk,BritboxUK-C
+host-suffix,britbox.co.uk,BritboxUK-C
+host-suffix,britbox.com,BritboxUK-C
+host-suffix,itv.com,BritboxUK-C
+host-suffix,massive-itv.com,BritboxUK-C
