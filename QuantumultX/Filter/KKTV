@@ -1,0 +1,6 @@
+# > KKTV-C
+user-agent,KKTV*,KKTV-C
+user-agent,com.kktv.ios.kktv*,KKTV-C
+host-suffix,kktv.com.tw,KKTV-C
+host-suffix,kktv.me,KKTV-C
+host,kktv-theater.kk.stream,KKTV-C
