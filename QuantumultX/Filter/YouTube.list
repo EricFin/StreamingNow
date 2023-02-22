@@ -1,15 +1,15 @@
-# > YouTube
-USER-AGENT,com.google.ios.youtube*,YouTube
-USER-AGENT,YouTube*,YouTube
-DOMAIN-SUFFIX,googlevideo.com,YouTube
-DOMAIN-SUFFIX,withyoutube.com,YouTube
-DOMAIN-SUFFIX,youtu.be,YouTube
-DOMAIN-SUFFIX,youtube.com,YouTube
-DOMAIN-SUFFIX,youtubeeducation.com,YouTube
-DOMAIN-SUFFIX,youtubegaming.com,YouTube
-DOMAIN-SUFFIX,youtubekids.com,YouTube
-DOMAIN-SUFFIX,youtube-nocookie.com,YouTube
-DOMAIN-SUFFIX,yt.be,YouTube
-DOMAIN-SUFFIX,ytimg.com,YouTube
-DOMAIN,youtubei.googleapis.com,YouTube
-DOMAIN,yt3.ggpht.com,YouTube
+# > YouTube-C
+user-agent,com.google.ios.youtube*,YouTube-C
+user-agent,YouTube*,YouTube-C
+host-suffix,googlevideo.com,YouTube-C
+host-suffix,withyoutube.com,YouTube-C
+host-suffix,youtu.be,YouTube-C
+host-suffix,youtube.com,YouTube-C
+host-suffix,youtubeeducation.com,YouTube-C
+host-suffix,youtubegaming.com,YouTube-C
+host-suffix,youtubekids.com,YouTube-C
+host-suffix,youtube-nocookie.com,YouTube-C
+host-suffix,yt.be,YouTube-C
+host-suffix,ytimg.com,YouTube-C
+host,youtubei.googleapis.com,YouTube-C
+host,yt3.ggpht.com,YouTube-C
