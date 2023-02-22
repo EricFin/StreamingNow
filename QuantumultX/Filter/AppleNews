@@ -1,0 +1,12 @@
+# > AppleNews-C
+user-agent, com.apple.news*, AppleNews-C
+user-agent, AppleNews*, AppleNews-C
+host-suffix, apple.news, AppleNews-C
+host, gateway.icloud.com, AppleNews-C
+host, apple.comscoreresearch.com, AppleNews-C
+host, news-edge.apple.com, AppleNews-C
+host, news-events.apple.com, AppleNews-C
+host, news-assets.apple.com, AppleNews-C
+host, news-client.apple.com, AppleNews-C
+host, news-client-search.apple.com, AppleNews-C
+host, gspe1-ssl.ls.apple.com, AppleNews-C
