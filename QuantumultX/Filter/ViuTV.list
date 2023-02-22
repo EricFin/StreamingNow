@@ -1,8 +1,8 @@
-# > ViuTV
-USER-AGENT,Viu*,ViuTV
-DOMAIN-SUFFIX,viu.com,ViuTV
-DOMAIN-SUFFIX,viu.tv,ViuTV
-DOMAIN,api.viu.now.com,ViuTV
-DOMAIN,d1k2us671qcoau.cloudfront.net,ViuTV
-DOMAIN,d2anahhhmp1ffz.cloudfront.net,ViuTV
-DOMAIN,dfp6rglgjqszk.cloudfront.net,ViuTV
+# > ViuTV-C
+user-agent,Viu*,ViuTV-C
+host-suffix,viu.com,ViuTV-C
+host-suffix,viu.tv,ViuTV-C
+host,api.viu.now.com,ViuTV-C
+host,d1k2us671qcoau.cloudfront.net,ViuTV-C
+host,d2anahhhmp1ffz.cloudfront.net,ViuTV-C
+host,dfp6rglgjqszk.cloudfront.net,ViuTV-C
