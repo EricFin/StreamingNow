@@ -3,7 +3,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,bing
 DOMAIN,lens.l.google.com
 DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,live.com
+# DOMAIN-SUFFIX,live.com
 DOMAIN-KEYWORD,hostloc
 DOMAIN-KEYWORD,ralphlauren
 DOMAIN-SUFFIX,imdb.com
