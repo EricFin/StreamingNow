@@ -1,0 +1,12 @@
+# > TikTok-C
+user-agent,TikTok*, TikTok-C
+host-suffix,byteoversea.com, TikTok-C
+host-suffix,ibytedtos.com, TikTok-C
+host-suffix,ipstatp.com, TikTok-C
+host-suffix,muscdn.com, TikTok-C
+host-suffix,musical.ly, TikTok-C
+host-suffix,tiktok.com, TikTok-C
+host-suffix,tik-tokapi.com, TikTok-C
+host-suffix,tiktokcdn.com, TikTok-C
+host-suffix,tiktokv.com, TikTok-C
+host-keyword,tiktokcdn-, TikTok-C
