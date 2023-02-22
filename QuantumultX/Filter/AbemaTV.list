@@ -1,10 +1,10 @@
-# > AbemaTV
-USER-AGENT,AbemaTV*,AbemaTV
-DOMAIN-SUFFIX,abema.io,AbemaTV
-DOMAIN-SUFFIX,abema.tv,AbemaTV
-DOMAIN-SUFFIX,abema-tv.com,AbemaTV
-DOMAIN-SUFFIX,ameba.jp,AbemaTV
-DOMAIN-SUFFIX,hayabusa.io,AbemaTV
-DOMAIN-SUFFIX,hayabusa.media,AbemaTV
-DOMAIN,api-abematv.bucketeer.jp,AbemaTV
-DOMAIN-KEYWORD,abematv.akamaized.net,AbemaTV
+# > AbemaTV-C
+user-agent,AbemaTV*,AbemaTV-C
+host-suffix,abema.io,AbemaTV-C
+host-suffix,abema.tv,AbemaTV-C
+host-suffix,abema-tv.com,AbemaTV-C
+host-suffix,ameba.jp,AbemaTV-C
+host-suffix,hayabusa.io,AbemaTV-C
+host-suffix,hayabusa.media,AbemaTV-C
+host,api-abematv.bucketeer.jp,AbemaTV-C
+host-keyword,abematv.akamaized.net,AbemaTV-C
