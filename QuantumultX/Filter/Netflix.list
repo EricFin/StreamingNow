@@ -1,3 +1,12 @@
 # > Netflix
-HOST-KEYWORD,netflix,Netflix
-HOST-KEYWORD,nflx,Netflix
+USER-AGENT,Argo*,Streaming
+host-suffix,netflix.com,Streaming
+host-suffix,netflix.net,Streaming
+host-suffix,nflxext.com,Streaming
+host-suffix,nflximg.com,Streaming
+host-suffix,nflximg.net,Streaming
+host-suffix,nflxso.net,Streaming
+host-suffix,nflxvideo.net,Streaming
+host-keyword,netflixdnstest,Streaming
+host-keyword,apiproxy-device-prod-nlb-,Streaming
+host-keyword,dualstack.apiproxy-,Streaming
