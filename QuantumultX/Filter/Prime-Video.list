@@ -1,20 +1,20 @@
 # > Amazon Prime Video
-USER-AGENT,InstantVideo.US*,Prime Video
-USER-AGENT,Prime%20Video*,Prime Video
-DOMAIN-SUFFIX,aiv-cdn.net,Prime Video
-DOMAIN-SUFFIX,aiv-delivery.net,Prime Video
-DOMAIN-SUFFIX,amazonvideo.com,Prime Video
-DOMAIN-SUFFIX,media-amazon.com,Prime Video
-DOMAIN-SUFFIX,primevideo.com,Prime Video
-DOMAIN-SUFFIX,pv-cdn.net,Prime Video
-DOMAIN,atv-ps.amazon.com,Prime Video
-DOMAIN,fls-na.amazon.com,Prime Video
-DOMAIN,avodmp4s3ww-a.akamaihd.net,Prime Video
-DOMAIN,d25xi40x97liuc.cloudfront.net,Prime Video
-DOMAIN,dmqdd6hw24ucf.cloudfront.net,Prime Video
-DOMAIN,dmqdd6hw24ucf.cloudfront.net,Prime Video
-DOMAIN,d22qjgkvxw22r6.cloudfront.net,Prime Video
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Prime Video
-DOMAIN,d27xxe7juh1us6.cloudfront.net,Prime Video
-DOMAIN,www.amazon.com,Prime Video
-DOMAIN-KEYWORD,avoddashs,Prime Video
+user-agent,InstantVideo.US*,PrimeVideo-C
+user-agent,Prime%20Video*,PrimeVideo-C
+host-suffix,aiv-cdn.net,PrimeVideo-C
+host-suffix,aiv-delivery.net,PrimeVideo-C
+host-suffix,amazonvideo.com,PrimeVideo-C
+host-suffix,media-amazon.com,PrimeVideo-C
+host-suffix,primevideo.com,PrimeVideo-C
+host-suffix,pv-cdn.net,PrimeVideo-C
+host,atv-ps.amazon.com,PrimeVideo-C
+host,fls-na.amazon.com,PrimeVideo-C
+host,avodmp4s3ww-a.akamaihd.net,PrimeVideo-C
+host,d25xi40x97liuc.cloudfront.net,PrimeVideo-C
+host,dmqdd6hw24ucf.cloudfront.net,PrimeVideo-C
+host,dmqdd6hw24ucf.cloudfront.net,PrimeVideo-C
+host,d22qjgkvxw22r6.cloudfront.net,PrimeVideo-C
+host,d1v5ir2lpwr8os.cloudfront.net,PrimeVideo-C
+host,d27xxe7juh1us6.cloudfront.net,PrimeVideo-C
+host,www.amazon.com,PrimeVideo-C
+host-keyword,avoddashs,PrimeVideo-C
