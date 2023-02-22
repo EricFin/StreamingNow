@@ -1,12 +1,12 @@
 # > Netflix
 USER-AGENT,Argo*,,Netflix
-host-suffix,netflix.com,Netflix
-host-suffix,netflix.net,Netflix
-host-suffix,nflxext.com,Netflix
-host-suffix,nflximg.com,Netflix
-host-suffix,nflximg.net,Netflix
-host-suffix,nflxso.net,Netflix
-host-suffix,nflxvideo.net,Netflix
-host-keyword,netflixdnstest,Netflix
-host-keyword,apiproxy-device-prod-nlb-,Netflix
-host-keyword,dualstack.apiproxy-,Netflix
+domain-suffix,netflix.com,Netflix
+domain-suffix,netflix.net,Netflix
+domain-suffix,nflxext.com,Netflix
+domain-suffix,nflximg.com,Netflix
+domain-suffix,nflximg.net,Netflix
+domain-suffix,nflxso.net,Netflix
+domain-suffix,nflxvideo.net,Netflix
+domain-keyword,netflixdnstest,Netflix
+domain-keyword,apiproxy-device-prod-nlb-,Netflix
+domain-keyword,dualstack.apiproxy-,Netflix
