@@ -1,5 +1,8 @@
 # > Qobuz-C
-host-suffix,app-measurement.com,Qobuz-C
+host-suffix, static-qobuz.com,Qobuz
 host,sdk.fra-01.braze.eu,Qobuz-C
 host,streaming-qobuz-sec.akamaized.net,Qobuz-C
 host,www.qobuz.com,Qobuz-C
+host-keyword, quobuz,Qobuz
+ip-cidr, 99.81.97.56/32,Qobuz
+ip-cidr, 52.211.1.180/32,Qobuz
