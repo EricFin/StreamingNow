@@ -1,8 +1,5 @@
 # > HBOGO-C
 user-agent,HBO%20GO%20PROD*,HBOGO-C
-host-suffix,hbogoasia.com,HBOGO-C
-host-suffix,hbogoasia.hk,HBOGO-C
-host-suffix,hbogoasia.,HBOGO-C
 host,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,HBOGO-C
 host,bcbolthboa-a.akamaihd.net,HBOGO-C
 host,cf-images.ap-southeast-1.prod.boltdns.net,HBOGO-C
@@ -18,3 +15,7 @@ host,hbolb.onwardsmg.com,HBOGO-C
 host,hbounify-prod.evergent.com,HBOGO-C
 host,players.brightcove.net,HBOGO-C
 host,s3-ap-southeast-1.amazonaws.com,HBOGO-C
+host,wmff.warnermediacdn.com,HBOGO-C
+host-suffix,hbogoasia.com,HBOGO-C
+host-suffix,hbogoasia.hk,HBOGO-C
+host-keyword,.hbogoasia.,HBOGO-C
