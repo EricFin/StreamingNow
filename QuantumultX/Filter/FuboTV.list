@@ -1,3 +1,4 @@
 # > FuboTV-C
 host-suffix,fubo.tv,FuboTV-C
 host-suffix,fubotv.com,FuboTV-C
+host-keyword,fox,FuboTV-C
