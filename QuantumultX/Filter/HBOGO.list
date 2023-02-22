@@ -2,7 +2,7 @@
 user-agent,HBO%20GO%20PROD*,HBOGO-C
 host-suffix,hbogoasia.com,HBOGO-C
 host-suffix,hbogoasia.hk,HBOGO-C
-host-suffix,.hbogoasia.,HBOGO-C
+host-suffix,hbogoasia.,HBOGO-C
 host,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,HBOGO-C
 host,bcbolthboa-a.akamaihd.net,HBOGO-C
 host,cf-images.ap-southeast-1.prod.boltdns.net,HBOGO-C
