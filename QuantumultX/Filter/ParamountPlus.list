@@ -1,11 +1,11 @@
-# > Paramount+
-USER-AGENT,PPlus*,Paramount+
-DOMAIN-SUFFIX,cbsi.com,Paramount+
-DOMAIN-SUFFIX,cbsaavideo.com,Paramount+
-DOMAIN-SUFFIX,cbsivideo.com,Paramount+
-DOMAIN-SUFFIX,paramountplus.com,Paramount+
-DOMAIN-SUFFIX,pplusstatic.com,Paramount+
-DOMAIN,cbsi.live.ott.irdeto.com,Paramount+
-DOMAIN,cbsplaylistserver.aws.syncbak.com,Paramount+
-DOMAIN,cbsservice.aws.syncbak.com,Paramount+
-DOMAIN,link.theplatform.com,Paramount+
+# > ParamountPlus-C
+user-agent,PPlus*, ParamountPlus-C
+host-suffix,cbsi.com, ParamountPlus-C
+host-suffix,cbsaavideo.com, ParamountPlus-C
+host-suffix,cbsivideo.com, ParamountPlus-C
+host-suffix,paramountplus.com, ParamountPlus-C
+host-suffix,pplusstatic.com, ParamountPlus-C
+host,cbsi.live.ott.irdeto.com, ParamountPlus-C
+host,cbsplaylistserver.aws.syncbak.com, ParamountPlus-C
+host,cbsservice.aws.syncbak.com, ParamountPlus-C
+host,link.theplatform.com, ParamountPlus-C
