@@ -1,8 +1,8 @@
-# > Spotify
-USER-AGENT,Spotify*,Spotify
-DOMAIN-SUFFIX,pscdn.co,Spotify
-DOMAIN-SUFFIX,scdn.co,Spotify
-DOMAIN-SUFFIX,spotify.com,Spotify
-DOMAIN-SUFFIX,spoti.fi,Spotify
-DOMAIN-KEYWORD,spotify.com,Spotify
-DOMAIN-KEYWORD,-spotify-com,Spotify
+# > Spotify-C
+user-agent,Spotify*,Spotify-C
+host-suffix,pscdn.co,Spotify-C
+host-suffix,scdn.co,Spotify-C
+host-suffix,spotify.com,Spotify-C
+host-suffix,spoti.fi,Spotify-C
+host-keyword,spotify.com,Spotify-C
+host-keyword,-spotify-com,Spotify-C
