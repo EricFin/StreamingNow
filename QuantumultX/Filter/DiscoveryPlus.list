@@ -1,11 +1,10 @@
-# > discovery+
-USER-AGENT,DPlus*,discovery+
-USER-AGENT,discovery+*,discovery+
-DOMAIN-SUFFIX,disco-api.com,discovery+
-DOMAIN-SUFFIX,discoveryplus.co.uk,discovery+
-DOMAIN-SUFFIX,discoveryplus.com,discovery+
-DOMAIN-SUFFIX,discoveryplus.in,discovery+
-DOMAIN-SUFFIX,dnitv.com,discovery+
-# DOMAIN,go-prod-vz.akamaized.net,discovery+
-DOMAIN,x-default-stgec.uplynk.com,discovery+
-DOMAIN-KEYWORD,discovery.uplynk.com,discovery+
+# > DiscoveryPlus-C
+user-agent,DPlus*,DiscoveryPlus-C
+user-agent,discovery+*,DiscoveryPlus-C
+host-suffix,disco-api.com,DiscoveryPlus-C
+host-suffix,discoveryplus.co.uk,DiscoveryPlus-C
+host-suffix,discoveryplus.com,DiscoveryPlus-C
+host-suffix,discoveryplus.in,DiscoveryPlus-C
+host-suffix,dnitv.com,DiscoveryPlus-C
+host,x-default-stgec.uplynk.com,DiscoveryPlus-C
+host-keyword,discovery.uplynk.com,DiscoveryPlus-C
