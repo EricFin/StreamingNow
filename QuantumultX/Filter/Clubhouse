@@ -1,0 +1,15 @@
+# > Clubhouse-C
+host,clubhouse.pubnub.com, Clubhouse-C
+host,clubhouseprod.s3.amazonaws.com, Clubhouse-C
+host-suffix,clubhouse.com, Clubhouse-C
+host-suffix,clubhouseapi.com, Clubhouse-C
+host-suffix,joinclubhouse.com, Clubhouse-C
+IP-CIDR,107.155.5.0/24, Clubhouse-C
+IP-CIDR,128.1.193.0/24, Clubhouse-C
+IP-CIDR,128.14.208.0/24, Clubhouse-C
+IP-CIDR,129.227.234.0/24, Clubhouse-C
+IP-CIDR,129.227.57.0/24, Clubhouse-C
+IP-CIDR,129.227.71.0/24, Clubhouse-C
+IP-CIDR,3.0.163.78/32, Clubhouse-C
+IP-CIDR,52.52.84.170/32, Clubhouse-C
+IP-CIDR,52.58.56.244/32, Clubhouse-C
