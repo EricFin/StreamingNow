@@ -1,5 +1,5 @@
-# > Qobuz
-HOST-SUFFIX,app-measurement.com
-HOST,sdk.fra-01.braze.eu
-HOST,streaming-qobuz-sec.akamaized.net
-HOST,www.qobuz.com
+# > Qobuz-C
+host-suffix,app-measurement.com,Qobuz-C
+host,sdk.fra-01.braze.eu,Qobuz-C
+host,streaming-qobuz-sec.akamaized.net,Qobuz-C
+host,www.qobuz.com,Qobuz-C
