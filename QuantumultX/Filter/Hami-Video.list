@@ -1,5 +1,5 @@
-# > Hami Video
-DOMAIN-SUFFIX,ott.hinet.net,Hami Video
-DOMAIN-SUFFIX,hamivideo.hinet.net,Hami Video
-DOMAIN,hls-hichannel.cdn.hinet.net,Hami Video
-DOMAIN-KEYWORD,hamivideo.cdn.hinet.net,Hami Video
+# > HamiVideo-C
+host-suffix,ott.hinet.net,HamiVideo-C
+host-suffix,hamivideo.hinet.net,HamiVideo-C
+host,hls-hichannel.cdn.hinet.net,HamiVideo-C
+host-keyword,hamivideo.cdn.hinet.net,HamiVideo-C
