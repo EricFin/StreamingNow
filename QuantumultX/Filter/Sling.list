@@ -1,6 +1,6 @@
-# > Sling
-HOST-SUFFIX,dishworld.com
-HOST-SUFFIX,movenetworks.com
-HOST-SUFFIX,movetv.com
-HOST-SUFFIX,sling.com
-HOST-SUFFIX,slinginternational.com
+# > Sling-C
+host-suffix,dishworld.com,Sling-C
+host-suffix,movenetworks.com,Sling-C
+host-suffix,movetv.com,Sling-C
+host-suffix,sling.com,Sling-C
+host-suffix,slinginternational.com,Sling-C
