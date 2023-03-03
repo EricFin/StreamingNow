@@ -8,3 +8,4 @@ host-suffix,hayabusa.io,AbemaTV-C
 host-suffix,hayabusa.media,AbemaTV-C
 host,api-abematv.bucketeer.jp,AbemaTV-C
 host-keyword,abematv.akamaized.net,AbemaTV-C
+host-keyword,rakuten.co.jp,AbemaTV-C
