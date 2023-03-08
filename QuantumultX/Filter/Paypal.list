@@ -1,5 +1,5 @@
-USER-AGENT,PayPal*,PayPal
-DOMAIN-SUFFIX,paypal.com,PayPal
-DOMAIN-SUFFIX,paypal.me,PayPal
-DOMAIN-SUFFIX,paypal-mktg.com,PayPal
-DOMAIN-SUFFIX,paypalobjects.com,PayPal
+user-agent,PayPal*,PayPal
+domain-suffix,paypal.com,PayPal
+domain-suffix,paypal.me,PayPal
+domain-suffix,paypal-mktg.com,PayPal
+domain-suffix,paypalobjects.com,PayPal
