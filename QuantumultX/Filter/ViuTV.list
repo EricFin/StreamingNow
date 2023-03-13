@@ -1,8 +1,9 @@
 # > ViuTV-C
 user-agent,Viu*,ViuTV-C
 host-suffix,viu.com,ViuTV-C
-host-suffix,viu.tv,ViuTV-C
-host,api.viu.now.com,ViuTV-C
 host,d1k2us671qcoau.cloudfront.net,ViuTV-C
 host,d2anahhhmp1ffz.cloudfront.net,ViuTV-C
 host,dfp6rglgjqszk.cloudfront.net,ViuTV-C
+host,d3o7oi00quuwqu.cloudfront.net,ViuTV-C
+host,d31rgcmny3inu.cloudfront.net,ViuTV-C
+host,pccw-cf-video.akamaized.net,ViuTV-C
