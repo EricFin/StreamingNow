@@ -1,4 +1,3 @@
-# > Mubi&Cusy-C
-host-suffix,mubi.com, Mubi&Cusy-C
-host-suffix,mubicdn.net, Mubi&Cusy-C
-host-keyword,curiositystream, Mubi&Cusy-C
+# > Mubi-C
+host-suffix,mubi.com, Mubi-C
+host-suffix,mubicdn.net, Mubi-C
