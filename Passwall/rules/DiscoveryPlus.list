@@ -1,9 +1,7 @@
-# > discovery+
-disco-api.com
-discoveryplus.co.uk
-discoveryplus.com
-discoveryplus.in
-dnitv.com
-#go-prod-vz.akamaized.net
-x-default-stgec.uplynk.com
+domain:disco-api.com
+domain:discoveryplus.co.uk
+domain:discoveryplus.com
+domain:discoveryplus.in
+domain:dnitv.com
+full:x-default-stgec.uplynk.com
 discovery.uplynk.com
