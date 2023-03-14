@@ -1,22 +1,20 @@
-# > US-Only
 openai
 bing
-lens.l.google.com
-skype.com
-# DOMAIN-SUFFIX,live.com
+full:lens.l.google.com
+domain:skype.com
 hostloc
 ralphlauren
-imdb.com
-phncdn.com
-pornhub.com
-pornhubpremium.com
+domain:imdb.com
+domain:phncdn.com
+domain:pornhub.com
+domain:pornhubpremium.com
 porn
-apple.comscoreresearch.com
-gateway.icloud.com
-gspe1-ssl.ls.apple.com
-news-assets.apple.com
-news-client-search.apple.com
-news-client.apple.com
-news-edge.apple.com
-news-events.apple.com
-apple.news
+full:apple.comscoreresearch.com
+full:gateway.icloud.com
+full:gspe1-ssl.ls.apple.com
+full:news-assets.apple.com
+full:news-client-search.apple.com
+full:news-client.apple.com
+full:news-edge.apple.com
+full:news-events.apple.com
+domain:apple.news
