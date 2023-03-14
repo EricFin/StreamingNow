@@ -1,10 +1,9 @@
-# > Paramount+
-cbsi.com
-cbsaavideo.com
-cbsivideo.com
-paramountplus.com
-pplusstatic.com
-cbsi.live.ott.irdeto.com
-cbsplaylistserver.aws.syncbak.com
-cbsservice.aws.syncbak.com
-link.theplatform.com
+domain:cbsi.com
+domain:cbsaavideo.com
+domain:cbsivideo.com
+domain:paramountplus.com
+domain:pplusstatic.com
+full:cbsi.live.ott.irdeto.com
+full:cbsplaylistserver.aws.syncbak.com
+full:cbsservice.aws.syncbak.com
+full:link.theplatform.com
