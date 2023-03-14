@@ -1,14 +1,13 @@
-# > NBA
-lion-nba-msl.akamaized.net
-nba.com
-neulion-a.akamaihd.net
-nlnbamdnyc-a.akamaihd.net
-sdk.iad-03.brazecom
-nbaprop.sc.omtrdc.net
-nlnbaqos.neulion.com
-watchnba.cdnfastly.endeavorstreaming.net
-nbaapi.neulion.com
-nba-api-cdn.opin.media
-neulionqos-a.akamaihd.net
-Dneulion.com
-nbanlds19vod.akamaized.net
+domain:lion-nba-msl.akamaized.net
+domain:nba.com
+domain:neulion-a.akamaihd.net
+domain:nlnbamdnyc-a.akamaihd.net
+domain:sdk.iad-03.brazecom
+domain:nbaprop.sc.omtrdc.net
+domain:nlnbaqos.neulion.com
+domain:watchnba.cdnfastly.endeavorstreaming.net
+domain:nbaapi.neulion.com
+domain:nba-api-cdn.opin.media
+domain:neulionqos-a.akamaihd.net
+domain:neulion.com
+domain:nbanlds19vod.akamaized.net
