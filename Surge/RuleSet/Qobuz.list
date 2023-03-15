@@ -1,5 +1,5 @@
 # > Qobuz
 DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,qobuz.com
 DOMAIN,sdk.fra-01.braze.eu
 DOMAIN,streaming-qobuz-sec.akamaized.net
-DOMAIN,www.qobuz.com
