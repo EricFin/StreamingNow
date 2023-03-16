@@ -1,2 +1,3 @@
-host-suffix,starz.com
-host-suffix,lionsgateplus.com
+# > Starz-C
+host-suffix,starz.com,Starz-C
+host-suffix,lionsgateplus.com,Starz-C
