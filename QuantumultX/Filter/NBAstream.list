@@ -1,14 +1,3 @@
 # > NBA-C
-host-suffix,lion-nba-msl.akamaized.net, NBA-C
 host-suffix,nba.com ,NBA-C
-host-suffix,neulion-a.akamaihd.net ,NBA-C
-host-suffix,nlnbamdnyc-a.akamaihd.net ,NBA-C
-host-suffix,sdk.iad-03.brazecom ,NBA-C
-host-suffix,nbaprop.sc.omtrdc.net ,NBA-C
-host-suffix,nlnbaqos.neulion.com ,NBA-C
-host-suffix,watchnba.cdnfastly.endeavorstreaming.net ,NBA-C
-host-suffix,nbaapi.neulion.com ,NBA-C
-host-suffix,nba-api-cdn.opin.media ,NBA-C
-host-suffix,neulionqos-a.akamaihd.net ,NBA-C
 host-suffix,neulion.com ,NBA-C
-host-suffix,nbanlds19vod.akamaized.net ,NBA-C
