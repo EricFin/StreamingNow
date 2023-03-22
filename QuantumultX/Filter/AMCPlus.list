@@ -1,0 +1,12 @@
+# > AMC+
+host-suffix,amcn.com
+host-suffix,amcplus.com
+host,amcplus-a.akamaized.net
+# > Shudder
+host-suffix,shudder.com
+host-suffix,amcsvod.io
+host,boltshudder1-a.akamaihd.net
+# > Sundance TV
+host,boltsundance1-a.akamaihd.net
+host-suffix,sundancetv.com
+host-suffix,sundancenow.com
