@@ -1,7 +1,7 @@
 # > US-Only-C
 host-keyword,openai ,US-Only-C
 host-keyword,bing ,US-Only-C
-host-suffix,bings.com
+host-suffix,bings.com  ,US-Only-C
 host,lens.l.google.com ,US-Only-C
 host-keyword,skype.com ,US-Only-C
 # host-keyword,live.com ,US-Only-C
