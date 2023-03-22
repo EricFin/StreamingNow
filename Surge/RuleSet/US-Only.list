@@ -1,5 +1,6 @@
 # > US-Only
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,bings.com
 DOMAIN-KEYWORD,bing
 DOMAIN,lens.l.google.com
 DOMAIN-SUFFIX,skype.com
