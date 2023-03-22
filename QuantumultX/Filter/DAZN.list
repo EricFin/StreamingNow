@@ -1,0 +1,8 @@
+# > DAZN
+user-agent,DAZN*
+host-suffix,dazn.com
+host-suffix,dazn-api.com
+host-suffix,dazndn.com
+host-suffix,indazn.com
+host,d151l6v8er5bdm.cloudfront.net
+host-keyword,voddazn
