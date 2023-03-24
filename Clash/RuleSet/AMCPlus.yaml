@@ -1,13 +1,13 @@
 payload:
-# > AMC+
-DOMAIN-SUFFIX,amcn.com
-DOMAIN-SUFFIX,amcplus.com
-DOMAIN,amcplus-a.akamaized.net
-# > Shudder
-DOMAIN-SUFFIX,shudder.com
-DOMAIN-SUFFIX,amcsvod.io
-DOMAIN,boltshudder1-a.akamaihd.net
-# > Sundance TV
-DOMAIN,boltsundance1-a.akamaihd.net
-DOMAIN-SUFFIX,sundancetv.com
-DOMAIN-SUFFIX,sundancenow.com
+  # > AMC+
+  - DOMAIN-SUFFIX,amcn.com
+  - DOMAIN-SUFFIX,amcplus.com
+  - DOMAIN,amcplus-a.akamaized.net
+  # > Shudder
+  - DOMAIN-SUFFIX,shudder.com
+  - DOMAIN-SUFFIX,amcsvod.io
+  - DOMAIN,boltshudder1-a.akamaihd.net
+  # > Sundance TV
+  - DOMAIN,boltsundance1-a.akamaihd.net
+  - DOMAIN-SUFFIX,sundancetv.com
+  - DOMAIN-SUFFIX,sundancenow.com
