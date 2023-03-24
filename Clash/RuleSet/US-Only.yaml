@@ -1,0 +1,22 @@
+payload:
+  # > US-Only
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-SUFFIX,bings.com
+  - DOMAIN-KEYWORD,bing
+  - DOMAIN,lens.l.google.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-KEYWORD,hostloc
+  - DOMAIN-KEYWORD,ralphlauren
+  - DOMAIN-SUFFIX,imdb.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - OMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN,gateway.icloud.com
+  - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN,news-assets.apple.com
+  - DOMAIN,news-client-search.apple.com
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-edge.apple.com
+# DOMAIN-SUFFIX,live.com
