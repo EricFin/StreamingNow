@@ -1,0 +1,4 @@
+payload:
+  # > Mubi
+  - DOMAIN-SUFFIX,mubi.com
+  - DOMAIN-SUFFIX,mubicdn.net
