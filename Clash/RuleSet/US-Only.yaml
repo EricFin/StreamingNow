@@ -19,4 +19,4 @@ payload:
   - DOMAIN,news-client-search.apple.com
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
-# DOMAIN-SUFFIX,live.com
+  # DOMAIN-SUFFIX,live.com
