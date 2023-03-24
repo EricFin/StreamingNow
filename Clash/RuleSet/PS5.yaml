@@ -1,0 +1,9 @@
+payload:
+  # > PS5
+  - DOMAIN-SUFFIX, playstation.com
+  - DOMAIN-SUFFIX, playstation.net
+  - DOMAIN-SUFFIX, psn.akadns.net
+  - DOMAIN-SUFFIX, dl.playstation.net.edgesuite.net
+  - DOMAIN-SUFFIX, sony.akadns.net
+  - DOMAIN-SUFFIX, sonycoment.loris-e.llnwd.net
+  - DOMAIN-SUFFIX, pls.patch.station.sony.com
