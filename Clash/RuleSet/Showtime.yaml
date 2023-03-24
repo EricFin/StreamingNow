@@ -1,0 +1,22 @@
+payload:
+  # > Showtime
+  - DOMAIN-SUFFIX,showtime.com
+  - DOMAIN-SUFFIX,sho.com
+  - DOMAIN-SUFFIX,device.marketingcloudapis.com
+  - DOMAIN-SUFFIX,kochava.com
+  - DOMAIN-SUFFIX,showtimeanytime.com
+  - DOMAIN-SUFFIX,newrelic.com
+  - DOMAIN-SUFFIX,mtvnservices.com
+  - DOMAIN-SUFFIX,cws.conviva.com
+  - DOMAIN-SUFFIX,imrworldwide.com
+  - DOMAIN-SUFFIX,braze.com
+  - DOMAIN-SUFFIX,branch.io
+  - DOMAIN-SUFFIX,akisinn.info
+  - DOMAIN,sb.scorecardresearch.com
+  - DOMAIN,cbs.penthera.com
+  - DOMAIN,cbs.hb-api.omtrdc.net
+  - DOMAIN,braze-images.com
+  - DOMAIN,sb.scorecardresearch.com
+  - DOMAIN,assets.adobedtm.com
+  - DOMAIN,mobile-data.onetrust.io
+  - DOMAIN,dpm.demdex.net
