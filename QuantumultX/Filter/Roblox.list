@@ -1,7 +1,7 @@
 # > Roblox
-host-suffix,roblox.com
-host-suffix,rbxcdn.com
-host-suffix,robloxcorp.com
-host-suffix,robloxusercontent.com
-host-suffix,robloxdev.com
-host-suffix,robloxlabs.com
+host-suffix,roblox.com,Roblox-C
+host-suffix,rbxcdn.com,Roblox-C
+host-suffix,robloxcorp.com,Roblox-C
+host-suffix,robloxusercontent.com,Roblox-C
+host-suffix,robloxdev.com,Roblox-C
+host-suffix,robloxlabs.com,Roblox-C
