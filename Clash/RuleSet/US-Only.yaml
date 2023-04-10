@@ -1,5 +1,6 @@
 payload:
   # > US-Only
+  - DOMAIN-SUFFIX,truthsocial.com
   - DOMAIN-SUFFIX,bings.com
   - DOMAIN-KEYWORD,bing
   - DOMAIN,lens.l.google.com
