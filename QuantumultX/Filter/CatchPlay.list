@@ -1,0 +1,10 @@
+# > catchplay
+USER-AGENT,CATCHPLAY*,CatchPlay-C
+PROCESS-NAME,com.catchplay.asiaplay,CatchPlay-C
+PROCESS-NAME,com.catchplay.asiaplay.tv,CatchPlay-C
+PROCESS-NAME,com.catchplay.asiaplay.common.tv,CatchPlay-C
+HOST-SUFFIX,catchplay.com,CatchPlay-C
+HOST,asiaplay-origin.s3.amazonaws.com,CatchPlay-C
+HOST,tra-ww000-cp.akamaized.net,CatchPlay-C
+HOST,ols-ww000-cp.akamaized.net,CatchPlay-C
+HOST,ols-ww100-cp.akamaized.net,CatchPlay-C
