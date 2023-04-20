@@ -1,8 +1,7 @@
 payload:
   # > US-Only
   - DOMAIN-SUFFIX,truthsocial.com
-  - DOMAIN-SUFFIX,bings.com
-  - DOMAIN-KEYWORD,bing
+  - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN,lens.l.google.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-KEYWORD,hostloc
