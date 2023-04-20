@@ -2,4 +2,3 @@ payload:
   # > Gpt&Bing
   - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-KEYWORD,bing
