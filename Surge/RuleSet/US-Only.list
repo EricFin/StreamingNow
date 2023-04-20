@@ -1,9 +1,11 @@
+# > ChatGpt&Bing
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,bings.com
+DOMAIN-KEYWORD,bing
 # > US-Only
 DOMAIN-SUFFIX,gamestop.com
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,bings.com
-DOMAIN-KEYWORD,bing
 DOMAIN,lens.l.google.com
 DOMAIN-SUFFIX,skype.com
 # DOMAIN-SUFFIX,live.com
