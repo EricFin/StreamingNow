@@ -1,5 +1,5 @@
 # > bard
-DOMAIN,bard.google.com
+host,bard.google.com
 # > US-Only-C
 host-suffix,truthsocial.com ,US-Only-C
 host,lens.l.google.com ,US-Only-C
