@@ -1,7 +1,4 @@
-# > ChatGpt&Bing
-DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,bings.com
-DOMAIN-KEYWORD,bing
+# > bard
 DOMAIN,bard.google.com
 # > US-Only
 DOMAIN-SUFFIX,gamestop.com
