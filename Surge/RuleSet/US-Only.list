@@ -2,6 +2,7 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,bings.com
 DOMAIN-KEYWORD,bing
+DOMAIN,bard.google.com
 # > US-Only
 DOMAIN-SUFFIX,gamestop.com
 DOMAIN-SUFFIX,truthsocial.com
