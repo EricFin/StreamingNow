@@ -18,7 +18,7 @@
 
 
   if (resetDayLeft || expire) { // 如果 resetDayLeft 或 expire 存在
-    if (resetDayLeft === "∞") { // 如果 resetDayLeft 等于 "∞"
+    if (resetDayLeft === "0") { // 如果 resetDayLeft 等于 "0"
     content.push("不重置"); // 添加字符串 "不重置" 到 content 数组中
   } else if (resetDayLeft && expire && expire !== "false") { // 如果 resetDayLeft 和 expire 存在且 expire 不等于字符串 "false"
     if (/^[\d.]+$/.test(expire)) expire *= 1000; // 如果 expire 是数字，则将其转换为毫秒数
