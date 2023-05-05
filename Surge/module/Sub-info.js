@@ -15,10 +15,9 @@
   let total = info.total;
   let expire = args.expire || info.expire;
   let content = [`已用：${toPercent(used, total)} \t|  剩余：${toMultiply(total, used)}`];
-
-
-  if (resetDayLeft || expire) { // 如果 resetDayLeft 或 expire 存在
-    if (resetDayLeft === "0") { // 如果 resetDayLeft 等于 "0"
+  
+if ((resetDayLeft !== undefined && resetDayLeft !== null) || expire) { // 如果 resetDayLeft 存在或 expire 存在
+  if (resetDayLeft === 0) { // 如果 resetDayLeft 等于 0
     content.push("不重置"); // 添加字符串 "不重置" 到 content 数组中
   } else if (resetDayLeft && expire && expire !== "false") { // 如果 resetDayLeft 和 expire 存在且 expire 不等于字符串 "false"
     if (/^[\d.]+$/.test(expire)) expire *= 1000; // 如果 expire 是数字，则将其转换为毫秒数
@@ -30,7 +29,6 @@
     content.push(`到期：${formatTime(expire)}`); // 添加格式化后的字符串到 content 数组中
   }
 }
-
 
   let now = new Date();
   let hour = now.getHours();
