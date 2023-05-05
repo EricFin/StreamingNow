@@ -1,3 +1,2 @@
-# > Roblox
-HOST-KEYWORD,roblox,Roblox-C
-USER-AGENT,Roblox*,Roblox-C
+payload:
+  - DOMAIN-KEYWORD,roblox
