@@ -1,9 +1,11 @@
 payload:
   # > US-Only
+
   - DOMAIN-SUFFIX,truthsocial.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN,lens.l.google.com
   - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,iheart.com
   - DOMAIN-KEYWORD,hostloc
   - DOMAIN-KEYWORD,ralphlauren
   - DOMAIN-SUFFIX,imdb.com
