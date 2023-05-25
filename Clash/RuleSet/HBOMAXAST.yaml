@@ -1,0 +1,4 @@
+payload:
+  # > HBOMAXAST
+  - DOMAIN-SUFFIX,api.hbo.com
+  - DOMAIN-SUFFIX,play.hbomax.com
