@@ -1,4 +1,5 @@
 payload:
   # > Gpt&Bing
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,bing.com
