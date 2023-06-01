@@ -2,6 +2,7 @@
 DOMAIN,bard.google.com
 # > WSJ
 DOMAIN,images.wsj.net
+DOMAIN-SUFFIX,dowjones.io
 # > Nikkei-Asia
 DOMAIN,main-asianreview-nikkei.content.pugpig.com
 # > US-Only
