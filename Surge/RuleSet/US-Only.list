@@ -1,9 +1,9 @@
 # > bard
 DOMAIN,bard.google.com
 # > WSJ
-DOMAIN-SUFFIX,images.wsj.net
+DOMAIN,images.wsj.net
 # > Nikkei-Asia
-DOMAIN-SUFFIX,main-asianreview-nikkei.content.pugpig.com
+DOMAIN,main-asianreview-nikkei.content.pugpig.com
 # > US-Only
 DOMAIN-SUFFIX,gamestop.com
 DOMAIN-SUFFIX,truthsocial.com
