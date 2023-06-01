@@ -1,7 +1,8 @@
 # > bard
 DOMAIN,bard.google.com
-# > US-Only
+# > Nikkei-Asia
 DOMAIN-SUFFIX,main-asianreview-nikkei.content.pugpig.com
+# > US-Only
 DOMAIN-SUFFIX,gamestop.com
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,v2rayssr.com
