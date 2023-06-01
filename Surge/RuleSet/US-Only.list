@@ -1,5 +1,7 @@
 # > bard
 DOMAIN,bard.google.com
+# > WSJ
+DOMAIN-SUFFIX,images.wsj.net
 # > Nikkei-Asia
 DOMAIN-SUFFIX,main-asianreview-nikkei.content.pugpig.com
 # > US-Only
