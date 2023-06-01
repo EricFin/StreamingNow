@@ -1,6 +1,8 @@
 payload:
   # > US-Only
-
+  -
+-DOMAIN-SUFFIX,dowjones.io
+-DOMAIN,main-asianreview-nikkei.content.pugpig.com
   - DOMAIN-SUFFIX,truthsocial.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN,lens.l.google.com
