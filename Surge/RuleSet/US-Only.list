@@ -5,6 +5,7 @@ DOMAIN,images.wsj.net
 DOMAIN-SUFFIX,dowjones.io
 # > Nikkei-Asia
 DOMAIN,main-asianreview-nikkei.content.pugpig.com
+DOMAIN-SUFFIX,nikkei.com
 # > US-Only
 DOMAIN-SUFFIX,gamestop.com
 DOMAIN-SUFFIX,truthsocial.com
