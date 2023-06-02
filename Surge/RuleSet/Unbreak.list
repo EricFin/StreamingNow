@@ -1,7 +1,13 @@
 # Unbreak
 # > General
-DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,hifuntv.com
+DOMAIN-SUFFIX,hitv.com
+DOMAIN-SUFFIX,hunaniptv.com
 DOMAIN-SUFFIX,hunantv.com
+DOMAIN-SUFFIX,imgo.tv
+DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,tazai.com
+USER-AGENT,MGTV*
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN,fp-it.fengkongcloud.com
 DOMAIN,ios.bugly.qq.com
