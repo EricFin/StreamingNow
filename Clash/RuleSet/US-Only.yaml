@@ -2,6 +2,7 @@ payload:
   # > US-Only
   - DOMAIN,images.wsj.net
   - DOMAIN-SUFFIX,dowjones.io
+  - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN,main-asianreview-nikkei.content.pugpig.com
   - DOMAIN-SUFFIX,truthsocial.com
   - DOMAIN-SUFFIX,bard.google.com
