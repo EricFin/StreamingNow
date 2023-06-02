@@ -5,6 +5,7 @@ host-suffix,dowjones.io
 host,images.wsj.net
 # > Nikkei-Asia
 host,main-asianreview-nikkei.content.pugpig.com
+host-suffix,nikkei.com
 # > US-Only
 host-suffix,truthsocial.com ,US-Only-C
 host-suffix,iheart.com ,US-Only-C
