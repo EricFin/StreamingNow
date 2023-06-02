@@ -1,11 +1,11 @@
 # > bard
 host,bard.google.com ,US-Only-C
 # > WSJ
-host-suffix,dowjones.io
-host,images.wsj.net
-# > Nikkei-Asia
-host,main-asianreview-nikkei.content.pugpig.com
-host-suffix,nikkei.com
+host-suffix,dowjones.io ,US-Only-C
+host,images.wsj.net ,US-Only-C
+# > Nikkei-Asia ,US-Only-C
+host,main-asianreview-nikkei.content.pugpig.com ,US-Only-C
+host-suffix,nikkei.com ,US-Only-C
 # > US-Only
 host-suffix,truthsocial.com ,US-Only-C
 host-suffix,iheart.com ,US-Only-C
