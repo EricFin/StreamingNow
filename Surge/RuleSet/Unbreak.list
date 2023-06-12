@@ -1,15 +1,5 @@
 # Unbreak
 # > General
-DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,umeng.com
-DOMAIN,sg.bls.mdt.qq.com
-DOMAIN,oth.str.mdt.qq.com
-DOMAIN,ios.bugly.qq.com
-DOMAIN,hunantv-mipdx.cn.miaozhen.com
-DOMAIN,y.da.hunantv.com
-DOMAIN,fp-it.fengkongcloud.com
-DOMAIN,tnet.da.mgtv.com
-DOMAIN-SUFFIX,mgtv.com
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn
