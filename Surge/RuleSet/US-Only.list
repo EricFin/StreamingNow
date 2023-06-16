@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,dowjones.io
 DOMAIN,main-asianreview-nikkei.content.pugpig.com
 DOMAIN-SUFFIX,nikkei.com
 # > US-Only
+DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,gamestop.com
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,v2rayssr.com
