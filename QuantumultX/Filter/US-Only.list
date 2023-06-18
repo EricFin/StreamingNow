@@ -12,7 +12,13 @@ host-suffix,iheart.com ,US-Only-C
 host,lens.l.google.com ,US-Only-C
 host-keyword,skype.com ,US-Only-C
 # host-keyword,live.com ,US-Only-C
-host-keyword,hostloc ,US-Only-C
-host-keyword,ralphlauren ,US-Only-C
-host-keyword,imdb.com ,US-Only-C
-host-keyword,heartradio ,US-Only-C
+host-suffix,hostloc.com ,US-Only-C
+host-suffix,ralphlauren.com ,US-Only-C
+host-suffix,imdb.com ,US-Only-C
+host-suffix,iheart.com ,US-Only-C
+host-suffix,sspanel.net ,US-Only-C
+host-suffix,v2ex.com ,US-Only-C
+host-suffix,github.com ,US-Only-C
+host-suffix,trakt.tv ,US-Only-C
+host-suffix,gamestop.com ,US-Only-C
+host-suffix,v2rayssr.com ,US-Only-C
