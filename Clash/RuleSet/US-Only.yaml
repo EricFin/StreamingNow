@@ -9,8 +9,8 @@ payload:
   - DOMAIN,lens.l.google.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,iheart.com
-  - DOMAIN-KEYWORD,hostloc
-  - DOMAIN-KEYWORD,ralphlauren
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,ralphlauren.com
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,pornhub.com
@@ -23,4 +23,8 @@ payload:
   - DOMAIN,news-client-search.apple.com
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
-  # DOMAIN-SUFFIX,live.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN,apple.news
+  - DOMAIN-SUFFIX,sspanel.net
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,github.com
