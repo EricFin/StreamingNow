@@ -8,8 +8,6 @@ domain:iheart.com
 domain:pbs.org
 full:lens.l.google.com
 domain:skype.com
-hostloc
-ralphlauren
 domain:imdb.com
 domain:phncdn.com
 domain:pornhub.com
@@ -24,3 +22,7 @@ full:news-client.apple.com
 full:news-edge.apple.com
 full:news-events.apple.com
 domain:apple.news
+domain:sspanel.net
+domain:v2ex.com
+domain:hostloc
+domain:ralphlauren
