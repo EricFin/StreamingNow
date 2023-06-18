@@ -15,13 +15,16 @@ DOMAIN,lens.l.google.com
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,iheart.com
 # DOMAIN-SUFFIX,live.com
-DOMAIN-KEYWORD,hostloc
-DOMAIN-KEYWORD,ralphlauren
+DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,ralphlauren.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-KEYWORD,porn
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,sspanel.net
+DOMAIN-SUFFIX,v2ex.com
 # > AppleNews
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,gateway.icloud.com
