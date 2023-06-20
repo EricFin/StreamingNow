@@ -1,3 +1,4 @@
+# > ted
 DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,ted.com
 DOMAIN,hxbtpvl2j2.execute-api.us-east-1.amazonaws.com
@@ -9,6 +10,11 @@ DOMAIN-SUFFIX,dowjones.io
 # > Nikkei-Asia
 DOMAIN,main-asianreview-nikkei.content.pugpig.com
 DOMAIN-SUFFIX,nikkei.com
+# > pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-KEYWORD,porn
 # > US-Only
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,gamestop.com
@@ -21,10 +27,6 @@ DOMAIN-SUFFIX,iheart.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,ralphlauren.com
 DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
-DOMAIN-KEYWORD,porn
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,sspanel.net
 DOMAIN-SUFFIX,v2ex.com
