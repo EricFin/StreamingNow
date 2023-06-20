@@ -41,6 +41,26 @@ DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN-SUFFIX,apple.news
 PROCESS-NAME,news
+# > fox
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,uplynk.com
+USER-AGENT,FOX%20NOW*
+DOMAIN,cdn-fox-networks-group-green.akamaized.net
+DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
+DOMAIN,foxsports01-i.akamaihd.net
+DOMAIN,foxsports02-i.akamaihd.net
+DOMAIN,foxsports03-i.akamaihd.net
+DOMAIN,staticasiafox.akamaized.net
+DOMAIN-SUFFIX,foxplus.com
+# > cake
+DOMAIN,d1koerlbtsmkf8.cloudfront.net
+DOMAIN,d31wl6mro6753i.cloudfront.net
+DOMAIN,static-mycake.pstatic.net
+DOMAIN,vstatic-mycake.pstatic.net
+DOMAIN-SUFFIX,cakeapp.me
+DOMAIN-SUFFIX,mycake.me
 # > Instagram
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
