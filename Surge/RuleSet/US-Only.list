@@ -1,5 +1,4 @@
 # > test
-DOMAIN,ssl.ptlogin2.mail.qq.com
 DOMAIN-SUFFIX,mail.qq.com
 # > ted
 DOMAIN-SUFFIX,tedcdn.com
