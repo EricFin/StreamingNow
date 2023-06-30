@@ -1,5 +1,7 @@
 payload:
   # China Area Network
+  - DOMAIN-SUFFIX,sgcc.com
+  - DOMAIN-SUFFIX,sgcc.com.cn
   - DOMAIN-SUFFIX,flyert.com
   - DOMAIN-SUFFIX,gandi.net
   - DOMAIN-SUFFIX,snapdrop.net
