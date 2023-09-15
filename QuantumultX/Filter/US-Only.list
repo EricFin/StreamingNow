@@ -49,7 +49,7 @@ HOST,news-client.apple.com,US-Only-C
 HOST,news-edge.apple.com,US-Only-C
 HOST,news-events.apple.com,US-Only-C
 HOST-SUFFIX,apple.news,US-Only-C
-PROCESS-NAME,news,US-Only-C
+# PROCESS-NAME,news,US-Only-C
 # > fox
 HOST-SUFFIX,fox.com,US-Only-C
 HOST-SUFFIX,foxdcg.com,US-Only-C
