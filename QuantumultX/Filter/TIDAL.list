@@ -1,3 +1,7 @@
 # > Tidal-C
 user-agent,TIDAL*,Tidal-C
+user-agent,TIDAL*dia,Tidal-C
 host-suffix,tidal.com,Tidal-C
+host-suffix,tidal-cms.s3.amazonaws.com,Tidal-C
+host-suffix,tidalhifi.com,Tidal-C
+host-suffix,wimpmusic.com,Tidal-C
