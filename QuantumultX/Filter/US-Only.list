@@ -1,24 +1,289 @@
+# > other
+HOST-SUFFIX,malaysiakini.com,US-Only-C
+HOST-SUFFIX,goojie.eu,US-Only-C
+HOST-SUFFIX,gitbook.io,US-Only-C
+HOST-SUFFIX,discord.gg,US-Only-C
+HOST-SUFFIX,duolingo.com,US-Only-C
+HOST-SUFFIX,duolingo.cn,US-Only-C
+# > qqmail
+HOST-SUFFIX,mail.qq.com,US-Only-C
+# > ted
+HOST-SUFFIX,tedcdn.com,US-Only-C
+HOST-SUFFIX,ted.com,US-Only-C
+HOST,hxbtpvl2j2.execute-api.us-east-1.amazonaws.com,US-Only-C
 # > bard
-host,bard.google.com ,US-Only-C
+HOST,bard.google.com,US-Only-C
 # > WSJ
-host-suffix,dowjones.io ,US-Only-C
-host,images.wsj.net ,US-Only-C
-# > Nikkei-Asia ,US-Only-C
-host,main-asianreview-nikkei.content.pugpig.com ,US-Only-C
-host-suffix,nikkei.com ,US-Only-C
+HOST,images.wsj.net,US-Only-C
+HOST-SUFFIX,dowjones.io,US-Only-C
+# > Nikkei-Asia
+HOST,main-asianreview-nikkei.content.pugpig.com,US-Only-C
+HOST-SUFFIX,nikkei.com,US-Only-C
+# > pornhub
+HOST-SUFFIX,phncdn.com,US-Only-C
+HOST-SUFFIX,pornhub.com,US-Only-C
+HOST-SUFFIX,pornhubpremium.com,US-Only-C
+HOST-KEYWORD,porn,US-Only-C
 # > US-Only
-host-suffix,truthsocial.com ,US-Only-C
-host-suffix,iheart.com ,US-Only-C
-host,lens.l.google.com ,US-Only-C
-host-keyword,skype.com ,US-Only-C
-# host-keyword,live.com ,US-Only-C
-host-suffix,hostloc.com ,US-Only-C
-host-suffix,ralphlauren.com ,US-Only-C
-host-suffix,imdb.com ,US-Only-C
-host-suffix,iheart.com ,US-Only-C
-host-suffix,sspanel.net ,US-Only-C
-host-suffix,v2ex.com ,US-Only-C
-host-suffix,github.com ,US-Only-C
-host-suffix,trakt.tv ,US-Only-C
-host-suffix,gamestop.com ,US-Only-C
-host-suffix,v2rayssr.com ,US-Only-C
+HOST-SUFFIX,trakt.tv,US-Only-C
+HOST-SUFFIX,gamestop.com,US-Only-C
+HOST-SUFFIX,truthsocial.com,US-Only-C
+HOST-SUFFIX,v2rayssr.com,US-Only-C
+HOST,lens.l.google.com,US-Only-C
+HOST-SUFFIX,skype.com,US-Only-C
+HOST-SUFFIX,iheart.com,US-Only-C
+# HOST-SUFFIX,live.com,US-Only-C
+HOST-SUFFIX,hostloc.com,US-Only-C
+HOST-SUFFIX,ralphlauren.com,US-Only-C
+HOST-SUFFIX,imdb.com,US-Only-C
+HOST-SUFFIX,github.com,US-Only-C
+HOST-SUFFIX,sspanel.net,US-Only-C
+HOST-SUFFIX,v2ex.com,US-Only-C
+# > AppleNews
+HOST,apple.comscoreresearch.com,US-Only-C
+HOST,gateway.icloud.com,US-Only-C
+HOST,gspe1-ssl.ls.apple.com,US-Only-C
+HOST,news-assets.apple.com,US-Only-C
+HOST,news-client-search.apple.com,US-Only-C
+HOST,news-client.apple.com,US-Only-C
+HOST,news-edge.apple.com,US-Only-C
+HOST,news-events.apple.com,US-Only-C
+HOST-SUFFIX,apple.news,US-Only-C
+PROCESS-NAME,news,US-Only-C
+# > fox
+HOST-SUFFIX,fox.com,US-Only-C
+HOST-SUFFIX,foxdcg.com,US-Only-C
+HOST-SUFFIX,theplatform.com,US-Only-C
+HOST-SUFFIX,uplynk.com,US-Only-C
+USER-AGENT,FOX%20NOW*,US-Only-C
+HOST,cdn-fox-networks-group-green.akamaized.net,US-Only-C
+HOST,d3cv4a9a9wh0bt.cloudfront.net,US-Only-C
+HOST,foxsports01-i.akamaihd.net,US-Only-C
+HOST,foxsports02-i.akamaihd.net,US-Only-C
+HOST,foxsports03-i.akamaihd.net,US-Only-C
+HOST,staticasiafox.akamaized.net,US-Only-C
+HOST-SUFFIX,foxplus.com,US-Only-C
+# > cake
+HOST,d1koerlbtsmkf8.cloudfront.net,US-Only-C
+HOST,d31wl6mro6753i.cloudfront.net,US-Only-C
+HOST,static-mycake.pstatic.net,US-Only-C
+HOST,vstatic-mycake.pstatic.net,US-Only-C
+HOST-SUFFIX,cakeapp.me,US-Only-C
+HOST-SUFFIX,mycake.me,US-Only-C
+# > Instagram
+HOST-SUFFIX,achat-followers-instagram.com,US-Only-C
+HOST-SUFFIX,acheter-followers-instagram.com,US-Only-C
+HOST-SUFFIX,acheterdesfollowersinstagram.com,US-Only-C
+HOST-SUFFIX,acheterfollowersinstagram.com,US-Only-C
+HOST-SUFFIX,bookstagram.com,US-Only-C
+HOST-SUFFIX,carstagram.com,US-Only-C
+HOST-SUFFIX,cdninstagram.com,US-Only-C
+HOST-SUFFIX,chickstagram.com,US-Only-C
+HOST-SUFFIX,ig.me,US-Only-C
+HOST-SUFFIX,igcdn.com,US-Only-C
+HOST-SUFFIX,igsonar.com,US-Only-C
+HOST-SUFFIX,igtv.com,US-Only-C
+HOST-SUFFIX,imstagram.com,US-Only-C
+HOST-SUFFIX,imtagram.com,US-Only-C
+HOST-SUFFIX,instaadder.com,US-Only-C
+HOST-SUFFIX,instachecker.com,US-Only-C
+HOST-SUFFIX,instafallow.com,US-Only-C
+HOST-SUFFIX,instafollower.com,US-Only-C
+HOST-SUFFIX,instagainer.com,US-Only-C
+HOST-SUFFIX,instagda.com,US-Only-C
+HOST-SUFFIX,instagify.com,US-Only-C
+HOST-SUFFIX,instagmania.com,US-Only-C
+HOST-SUFFIX,instagor.com,US-Only-C
+HOST-SUFFIX,instagr.am,US-Only-C
+HOST-SUFFIX,instagram-brand.com,US-Only-C
+HOST-SUFFIX,instagram-engineering.com,US-Only-C
+HOST-SUFFIX,instagram-help.com,US-Only-C
+HOST-SUFFIX,instagram-press.com,US-Only-C
+HOST-SUFFIX,instagram-press.net,US-Only-C
+HOST-SUFFIX,instagram.com,US-Only-C
+HOST-SUFFIX,instagramci.com,US-Only-C
+HOST-SUFFIX,instagramcn.com,US-Only-C
+HOST-SUFFIX,instagramdi.com,US-Only-C
+HOST-SUFFIX,instagramhashtags.net,US-Only-C
+HOST-SUFFIX,instagramhilecim.com,US-Only-C
+HOST-SUFFIX,instagramhilesi.org,US-Only-C
+HOST-SUFFIX,instagramium.com,US-Only-C
+HOST-SUFFIX,instagramizlenme.com,US-Only-C
+HOST-SUFFIX,instagramkusu.com,US-Only-C
+HOST-SUFFIX,instagramlogin.com,US-Only-C
+HOST-SUFFIX,instagramm.com,US-Only-C
+HOST-SUFFIX,instagramn.com,US-Only-C
+HOST-SUFFIX,instagrampartners.com,US-Only-C
+HOST-SUFFIX,instagramphoto.com,US-Only-C
+HOST-SUFFIX,instagramq.com,US-Only-C
+HOST-SUFFIX,instagramsepeti.com,US-Only-C
+HOST-SUFFIX,instagramtakipcisatinal.net,US-Only-C
+HOST-SUFFIX,instagramtakiphilesi.com,US-Only-C
+HOST-SUFFIX,instagramtips.com,US-Only-C
+HOST-SUFFIX,instagramtr.com,US-Only-C
+HOST-SUFFIX,instagran.com,US-Only-C
+HOST-SUFFIX,instagranm.com,US-Only-C
+HOST-SUFFIX,instagrem.com,US-Only-C
+HOST-SUFFIX,instagrm.com,US-Only-C
+HOST-SUFFIX,instagtram.com,US-Only-C
+HOST-SUFFIX,instagy.com,US-Only-C
+HOST-SUFFIX,instamgram.com,US-Only-C
+HOST-SUFFIX,instangram.com,US-Only-C
+HOST-SUFFIX,instanttelegram.com,US-Only-C
+HOST-SUFFIX,instaplayer.net,US-Only-C
+HOST-SUFFIX,instastyle.tv,US-Only-C
+HOST-SUFFIX,instgram.com,US-Only-C
+HOST-SUFFIX,intagram.com,US-Only-C
+HOST-SUFFIX,intagrm.com,US-Only-C
+HOST-SUFFIX,intgram.com,US-Only-C
+HOST-SUFFIX,kingstagram.com,US-Only-C
+HOST-SUFFIX,lnstagram-help.com,US-Only-C
+HOST-SUFFIX,oninstagram.com,US-Only-C
+HOST-SUFFIX,online-instagram.com,US-Only-C
+HOST-SUFFIX,onlineinstagram.com,US-Only-C
+HOST-SUFFIX,theinstagramhack.com,US-Only-C
+HOST-SUFFIX,web-instagram.net,US-Only-C
+HOST-SUFFIX,wwwinstagram.com,US-Only-C
+HOST-KEYWORD,instagram,US-Only-C
+# > Twitter
+HOST-SUFFIX,ads-twitter.com,US-Only-C
+HOST-SUFFIX,cms-twdigitalassets.com,US-Only-C
+HOST-SUFFIX,periscope.tv,US-Only-C
+HOST-SUFFIX,pscp.tv,US-Only-C,US-Only-C
+HOST-SUFFIX,t.co,US-Only-C
+HOST-SUFFIX,tellapart.com,US-Only-C
+HOST-SUFFIX,tweetdeck.com,US-Only-C
+HOST-SUFFIX,twimg.co,US-Only-C
+HOST-SUFFIX,twimg.com,US-Only-C
+HOST-SUFFIX,twimg.org,US-Only-C
+HOST-SUFFIX,twitpic.com,US-Only-C
+HOST-SUFFIX,twitter.biz,US-Only-C
+HOST-SUFFIX,twitter.com,US-Only-C
+HOST-SUFFIX,twitter.jp,US-Only-C
+HOST-SUFFIX,twittercommunity.com,US-Only-C
+HOST-SUFFIX,twitterflightschool.com,US-Only-C
+HOST-SUFFIX,twitterinc.com,US-Only-C
+HOST-SUFFIX,twitteroauth.com,US-Only-C
+HOST-SUFFIX,twitterstat.us,US-Only-C
+HOST-SUFFIX,twtrdns.net,US-Only-C
+HOST-SUFFIX,twttr.com,US-Only-C
+HOST-SUFFIX,twttr.net,US-Only-C
+HOST-SUFFIX,twvid.com,US-Only-C
+HOST-SUFFIX,vine.co,US-Only-C
+HOST-KEYWORD,twitter,US-Only-C
+IP-CIDR,192.133.76.0/22,no-resolve,US-Only-C
+IP-CIDR,199.16.156.0/22,no-resolve,US-Only-C
+IP-CIDR,199.59.148.0/22,no-resolve,US-Only-C
+IP-CIDR,199.96.56.0/21,no-resolve,US-Only-C
+IP-CIDR,202.160.128.0/22,no-resolve,US-Only-C
+IP-CIDR,209.237.192.0/19,no-resolve,US-Only-C
+IP-CIDR,69.195.160.0/19,no-resolve,US-Only-C
+# > Whatsapp
+HOST,graph.facebook.com,US-Only-C
+HOST-SUFFIX,bintray.com,US-Only-C
+HOST-SUFFIX,wa.me,US-Only-C
+HOST-SUFFIX,whatsapp-plus.info,US-Only-C
+HOST-SUFFIX,whatsapp-plus.me,US-Only-C
+HOST-SUFFIX,whatsapp-plus.net,US-Only-C
+HOST-SUFFIX,whatsapp.biz,US-Only-C
+HOST-SUFFIX,whatsapp.cc,US-Only-C
+HOST-SUFFIX,whatsapp.com,US-Only-C
+HOST-SUFFIX,whatsapp.info,US-Only-C
+HOST-SUFFIX,whatsapp.net,US-Only-C
+HOST-SUFFIX,whatsapp.org,US-Only-C
+HOST-SUFFIX,whatsapp.tv,US-Only-C
+HOST-SUFFIX,whatsappbrand.com,US-Only-C
+HOST-KEYWORD,whatsapp,US-Only-C
+IP-CIDR,158.85.224.160/27,no-resolve,US-Only-C
+IP-CIDR,158.85.46.128/27,no-resolve,US-Only-C
+IP-CIDR,158.85.5.192/27,no-resolve,US-Only-C
+IP-CIDR,173.192.222.160/27,no-resolve,US-Only-C
+IP-CIDR,173.192.231.32/27,no-resolve,US-Only-C
+IP-CIDR,18.194.0.0/15,no-resolve,US-Only-C
+IP-CIDR,184.173.128.0/17,no-resolve,US-Only-C
+IP-CIDR,208.43.122.128/27,no-resolve,US-Only-C
+IP-CIDR,34.224.0.0/12,no-resolve,US-Only-C
+IP-CIDR,50.22.198.204/30,no-resolve,US-Only-C
+IP-CIDR,54.242.0.0/15,no-resolve,US-Only-C
+# > VK
+HOST-SUFFIX,mvk.com,US-Only-C
+HOST-SUFFIX,userapi.com,US-Only-C
+HOST-SUFFIX,vk-cdn.me,US-Only-C
+HOST-SUFFIX,vk-cdn.net,US-Only-C
+HOST-SUFFIX,vk-portal.net,US-Only-C
+HOST-SUFFIX,vk.cc,US-Only-C
+HOST-SUFFIX,vk.com,US-Only-C
+HOST-SUFFIX,vk.design,US-Only-C
+HOST-SUFFIX,vk.link,US-Only-C
+HOST-SUFFIX,vk.me,US-Only-C
+HOST-SUFFIX,vkcache.com,US-Only-C
+HOST-SUFFIX,vkgo.app,US-Only-C
+HOST-SUFFIX,vklive.app,US-Only-C
+HOST-SUFFIX,vkmessenger.app,US-Only-C
+HOST-SUFFIX,vkmessenger.com,US-Only-C
+HOST-SUFFIX,vkontakte.ru,US-Only-C
+HOST-SUFFIX,vkuseraudio.com,US-Only-C
+HOST-SUFFIX,vkuserlive.net,US-Only-C
+HOST-SUFFIX,vkuservideo.com,US-Only-C
+HOST-SUFFIX,vkuservideo.net,US-Only-C
+# > bloomburg
+HOST-SUFFIX,bbgevent.com,US-Only-C
+HOST-SUFFIX,bbhub.io,US-Only-C
+HOST-SUFFIX,bbthat.com,US-Only-C
+HOST-SUFFIX,bgov.com,US-Only-C
+HOST-SUFFIX,bloomberg.cn,US-Only-C
+HOST-SUFFIX,bloomberg.co.jp,US-Only-C
+HOST-SUFFIX,bloomberg.co.kr,US-Only-C
+HOST-SUFFIX,bloomberg.com,US-Only-C
+HOST-SUFFIX,bloomberg.com.br,US-Only-C
+HOST-SUFFIX,bloomberg.fm,US-Only-C
+HOST-SUFFIX,bloomberg.tv,US-Only-C
+HOST-SUFFIX,bloombergapps.com,US-Only-C
+HOST-SUFFIX,bloombergarcade.com,US-Only-C
+HOST-SUFFIX,bloombergbeta.com,US-Only-C
+HOST-SUFFIX,bloombergbna.com,US-Only-C
+HOST-SUFFIX,bloombergbreakaway.com,US-Only-C
+HOST-SUFFIX,bloombergbriefs.com,US-Only-C
+HOST-SUFFIX,bloombergchina.com,US-Only-C
+HOST-SUFFIX,bloombergenvironment.com,US-Only-C
+HOST-SUFFIX,bloombergforeducation.com,US-Only-C
+HOST-SUFFIX,bloomberggovernment.com,US-Only-C
+HOST-SUFFIX,bloombergindices.com,US-Only-C
+HOST-SUFFIX,bloombergindustry.com,US-Only-C
+HOST-SUFFIX,bloomberglabs.com,US-Only-C
+HOST-SUFFIX,bloomberglaw.com,US-Only-C
+HOST-SUFFIX,bloomberglive.com,US-Only-C
+HOST-SUFFIX,bloomberglp.com,US-Only-C
+HOST-SUFFIX,bloombergmedia.com,US-Only-C
+HOST-SUFFIX,bloombergnext.com,US-Only-C
+HOST-SUFFIX,bloombergpolarlake.com,US-Only-C
+HOST-SUFFIX,bloombergprep.com,US-Only-C
+HOST-SUFFIX,bloombergquint.com,US-Only-C
+HOST-SUFFIX,bloombergradio.com,US-Only-C
+HOST-SUFFIX,bloombergsef.com,US-Only-C
+HOST-SUFFIX,bloombergspace.com,US-Only-C
+HOST-SUFFIX,bloombergstatus.com,US-Only-C
+HOST-SUFFIX,bloombergsurvey.com,US-Only-C
+HOST-SUFFIX,bloombergtax.com,US-Only-C
+HOST-SUFFIX,bloombergtax1.com,US-Only-C
+HOST-SUFFIX,bloombergtaxtech.com,US-Only-C
+HOST-SUFFIX,bloombergtradingchallenge.com,US-Only-C
+HOST-SUFFIX,bloombergtv.mn,US-Only-C
+HOST-SUFFIX,bloombergvault.com,US-Only-C
+HOST-SUFFIX,bloombergview.com,US-Only-C
+HOST-SUFFIX,blpcareers.com,US-Only-C
+HOST-SUFFIX,blpevents.com,US-Only-C
+HOST-SUFFIX,blpprofessional.com,US-Only-C
+HOST-SUFFIX,bmia.org,US-Only-C
+HOST-SUFFIX,bnef.com,US-Only-C
+HOST-SUFFIX,businessweek.com,US-Only-C
+HOST-SUFFIX,businessweekmag.com,US-Only-C
+HOST-SUFFIX,bwbx.io,US-Only-C
+HOST-SUFFIX,citylab.com,US-Only-C
+HOST-SUFFIX,gotraffic.net,US-Only-C
+HOST-SUFFIX,londonmithraeum.com,US-Only-C
+HOST-SUFFIX,neweconomyforum.com,US-Only-C
+HOST-SUFFIX,newenergyfinance.com,US-Only-C
+HOST-SUFFIX,quicktake.video,US-Only-C
+HOST-SUFFIX,techatbloomberg.com,US-Only-C
+HOST-SUFFIX,tictoc.video,US-Only-C
