@@ -1,0 +1,134 @@
+# China Area Network
+HOST-SUFFIX,sgcc.com,China-C
+HOST-SUFFIX,sgcc.com.cn,China-C
+HOST-SUFFIX,sgepri.sgcc.com.cn,China-C
+HOST-SUFFIX,flyert.com,China-C
+HOST-SUFFIX,gandi.net,China-C
+HOST-SUFFIX,snapdrop.net,China-C
+HOST,download.jetbrains.com,China-C
+HOST,origin-a.akamaihd.net,China-C // Origin Download
+# ---(Microsoft)---
+# > Outlook
+HOST,outlook.office365.com,China-C
+HOST,smtp-mail.outlook.com,China-C
+HOST,smtp.office365.com,China-C
+# > Windows Server Update Services
+HOST-SUFFIX,dl.delivery.mp.microsoft.com,China-C
+HOST-SUFFIX,update.microsoft.com,China-C
+HOST-SUFFIX,windowsupdate.com,China-C
+HOST-SUFFIX,windowsupdate.microsoft.com,China-C
+HOST,download.microsoft.com,China-C
+HOST,wustat.windows.com,China-C
+HOST,ntservicepack.microsoft.com,China-C
+# > Steam
+HOST-SUFFIX,cm.steampowered.com,China-C // Steam Connect Manager Servers
+HOST-SUFFIX,steamserver.net,China-C
+# > Tencent
+HOST,fairplay.l.qq.com,China-C
+HOST,livew.l.qq.com,China-C
+HOST,vd.l.qq.com,China-C
+HOST,vi.l.qq.com,China-C
+IP-CIDR,182.254.116.0/24,no-resolve,China-C
+IP-CIDR,203.205.238.0/23,no-resolve,China-C
+IP-CIDR,203.205.254.0/23,no-resolve,China-C
+# > IP Query
+HOST,ip.istatmenus.app,China-C
+HOST,sms.imagetasks.com,China-C
+# > Speed Test
+HOST-SUFFIX,netspeedtestmaster.com,China-C
+HOST,speedtest.macpaw.com,China-C
+# > Private Tracker
+HOST-SUFFIX,aliyundrive.com,China-C
+HOST-SUFFIX,acg.rip,China-C
+HOST-SUFFIX,animebytes.tv,China-C
+HOST-SUFFIX,awesome-hd.me,China-C
+HOST-SUFFIX,broadcasthe.net,China-C
+HOST-SUFFIX,chdbits.co,China-C
+HOST-SUFFIX,classix-unlimited.co.uk,China-C
+HOST-SUFFIX,comicat.org,China-C
+HOST-SUFFIX,empornium.me,China-C
+HOST-SUFFIX,gazellegames.net,China-C
+HOST-SUFFIX,hdbits.org,China-C
+HOST-SUFFIX,hdchina.org,China-C
+HOST-SUFFIX,hddolby.com,China-C
+HOST-SUFFIX,hdhome.org,China-C
+HOST-SUFFIX,hdsky.me,China-C
+HOST-SUFFIX,icetorrent.org,China-C
+HOST-SUFFIX,jpopsuki.eu,China-C
+HOST-SUFFIX,keepfrds.com,China-C
+HOST-SUFFIX,madsrevolution.net,China-C
+HOST-SUFFIX,morethan.tv,China-C
+HOST-SUFFIX,m-team.cc,China-C
+HOST-SUFFIX,myanonamouse.net,China-C
+HOST-SUFFIX,nanyangpt.com,China-C
+HOST-SUFFIX,ncore.cc,China-C
+HOST-SUFFIX,open.cd,China-C
+HOST-SUFFIX,ourbits.club,China-C
+HOST-SUFFIX,passthepopcorn.me,China-C
+HOST-SUFFIX,privatehd.to,China-C
+HOST-SUFFIX,pterclub.com,China-C
+HOST-SUFFIX,redacted.ch,China-C
+HOST-SUFFIX,springsunday.net,China-C
+HOST-SUFFIX,tjupt.org,China-C
+HOST-SUFFIX,totheglory.im,China-C
+# > CEB
+HOST-SUFFIX,cebbank.com,China-C
+HOST-SUFFIX,ceblease.com,China-C
+HOST-SUFFIX,eb-ind.com,China-C
+HOST-SUFFIX,ebasset.com,China-C
+HOST-SUFFIX,ebchina.com,China-C
+HOST-SUFFIX,ebchinaintl.com,China-C
+HOST-SUFFIX,ebf.com.cn,China-C
+HOST-SUFFIX,ebfcn.com,China-C
+HOST-SUFFIX,ebfortune.com,China-C
+HOST-SUFFIX,ebscn-am.com,China-C
+HOST-SUFFIX,ebscn.com,China-C
+HOST-SUFFIX,ebtrust.com,China-C
+HOST-SUFFIX,everbright.com,China-C
+HOST-SUFFIX,secec.com,China-C
+HOST-SUFFIX,sunlife-everbright.com,China-C
+# Unbreak
+# > General
+HOST,app.adjust.com,China-C
+HOST,app.appsflyer.com,China-C
+HOST,bdtj.tagtic.cn,China-C
+# > Alibaba
+HOST,log.mmstat.com,China-C
+HOST,sycm.mmstat.com,China-C
+# > Google
+HOST-SUFFIX,blog.google,China-C // Google Blog
+HOST-SUFFIX,googletraveladservices.com,China-C // Google Flights
+HOST,clientservices.googleapis.com,China-C
+HOST,update.googleapis.com,China-C
+HOST,dl.google.com,China-C
+HOST,dl.l.google.com,China-C
+HOST,update.googleapis.com,China-C
+# > Firebase Cloud Messaging
+HOST,mtalk.google.com,China-C
+HOST,alt1-mtalk.google.com,China-C
+HOST,alt2-mtalk.google.com,China-C
+HOST,alt3-mtalk.google.com,China-C
+HOST,alt4-mtalk.google.com,China-C
+HOST,alt5-mtalk.google.com,China-C
+HOST,alt6-mtalk.google.com,China-C
+HOST,alt7-mtalk.google.com,China-C
+HOST,alt8-mtalk.google.com,China-C
+# > Strava
+HOST,analytics.strava.com,China-C
+# > Umeng
+HOST,msg.umeng.com,China-C
+HOST,msg.umengcloud.com,China-C
+# > Other
+PROCESS-NAME,UUBooster,China-C
+PROCESS-NAME,aria2c,China-C
+PROCESS-NAME,fdm,China-C
+PROCESS-NAME,Folx,China-C
+PROCESS-NAME,NetTransport,China-C
+PROCESS-NAME,Thunder,China-C
+PROCESS-NAME,Transmission,China-C
+PROCESS-NAME,uTorrent,China-C
+PROCESS-NAME,WebTorrent,China-C
+PROCESS-NAME,WebTorrent Helper,China-C
+HOST-SUFFIX,smtp,China-C
+HOST-KEYWORD,aria2,China-C
+PROCESS-NAME,Weiyun,China-C
