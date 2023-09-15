@@ -171,13 +171,13 @@ HOST-SUFFIX,twttr.net,US-Only-C
 HOST-SUFFIX,twvid.com,US-Only-C
 HOST-SUFFIX,vine.co,US-Only-C
 HOST-KEYWORD,twitter,US-Only-C
-IP-CIDR,192.133.76.0/22,no-resolve,US-Only-C
-IP-CIDR,199.16.156.0/22,no-resolve,US-Only-C
-IP-CIDR,199.59.148.0/22,no-resolve,US-Only-C
-IP-CIDR,199.96.56.0/21,no-resolve,US-Only-C
-IP-CIDR,202.160.128.0/22,no-resolve,US-Only-C
-IP-CIDR,209.237.192.0/19,no-resolve,US-Only-C
-IP-CIDR,69.195.160.0/19,no-resolve,US-Only-C
+IP-CIDR,192.133.76.0/22,US-Only-C
+IP-CIDR,199.16.156.0/22,US-Only-C
+IP-CIDR,199.59.148.0/22,US-Only-C
+IP-CIDR,199.96.56.0/21,US-Only-C
+IP-CIDR,202.160.128.0/22,US-Only-C
+IP-CIDR,209.237.192.0/19,US-Only-C
+IP-CIDR,69.195.160.0/19,US-Only-C
 # > Whatsapp
 HOST,graph.facebook.com,US-Only-C
 HOST-SUFFIX,bintray.com,US-Only-C
