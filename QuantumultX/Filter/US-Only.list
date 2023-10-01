@@ -1,4 +1,6 @@
 # > other
+HOST-SUFFIX,api.minecraftservices.com
+HOST-SUFFIX,api.mojang.com
 HOST-SUFFIX,malaysiakini.com,US-Only-C
 HOST-SUFFIX,goojie.eu,US-Only-C
 HOST-SUFFIX,gitbook.io,US-Only-C
