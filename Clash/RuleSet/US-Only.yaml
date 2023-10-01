@@ -1,5 +1,7 @@
 payload:
   # > US-Only
+  - DOMAIN-SUFFIX,api.minecraftservices.com
+  - DOMAIN-SUFFIX,api.mojang.com
   - DOMAIN,images.wsj.net
   - DOMAIN-SUFFIX,dowjones.io
   - DOMAIN-SUFFIX,nikkei.com
