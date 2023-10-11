@@ -1,0 +1,6 @@
+payload:
+  # > MAX
+  - DOMAIN-SUFFIX,max.com
+  - DOMAIN-SUFFIX,discomax.com
+
+  
