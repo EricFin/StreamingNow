@@ -1,5 +1,5 @@
 payload:
-  # (D.C.S.G?)
+  # other
   - DOMAIN-SUFFIX,9cache.com
   - DOMAIN-SUFFIX,9gag.com
   - DOMAIN-SUFFIX,abc.com
@@ -431,7 +431,6 @@ payload:
   # > Yandex
   - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN,disk.yandex.com
-
   # (Region-Restricted Access Denied)
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,aimoon.com
@@ -466,7 +465,6 @@ payload:
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
   - DOMAIN,apple.comscoreresearch.com
-  # ------
   # > Microsoft
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,linkedin.com
