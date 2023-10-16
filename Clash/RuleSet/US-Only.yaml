@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,tedcdn.com
   - DOMAIN-SUFFIX,ted.com
   - DOMAIN,hxbtpvl2j2.execute-api.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,api.minecraftservices.com
   - DOMAIN-SUFFIX,api.mojang.com
   - DOMAIN,images.wsj.net
@@ -38,8 +40,6 @@ payload:
   - DOMAIN,news-events.apple.com
   - DOMAIN,apple.news
   - DOMAIN-SUFFIX,sspanel.net
-  - DOMAIN-SUFFIX,v2ex.com
-  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,bbgevent.com
   - DOMAIN-SUFFIX,bbhub.io
   - DOMAIN-SUFFIX,bbthat.com
