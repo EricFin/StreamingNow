@@ -1,5 +1,6 @@
 payload:
   # > US-Only
+  - DOMAIN-SUFFIX,gvfaka.com
   - DOMAIN-SUFFIX,aljazeera.com
   - DOMAIN-SUFFIX,reuters.com
   - DOMAIN-SUFFIX,reutersmedia.net
