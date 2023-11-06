@@ -1,7 +1,3 @@
-# > Reuters
-DOMAIN-SUFFIX,reuters.com
-DOMAIN-SUFFIX,reutersmedia.net
-DOMAIN-SUFFIX,reuters.tv
 # > other
 DOMAIN-SUFFIX,gvfaka.com
 DOMAIN-SUFFIX,aljazeera.com
@@ -13,6 +9,24 @@ DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,gamestop.com
+DOMAIN-SUFFIX,truthsocial.com
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN,lens.l.google.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,iheart.com
+# DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,ralphlauren.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,sspanel.net
+DOMAIN-SUFFIX,v2ex.com
+# > Reuters
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reutersmedia.net
+DOMAIN-SUFFIX,reuters.tv
 # > qqmail
 DOMAIN-SUFFIX,mail.qq.com
 # > ted
@@ -32,21 +46,6 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-KEYWORD,porn
-# > US-Only
-DOMAIN-SUFFIX,trakt.tv
-DOMAIN-SUFFIX,gamestop.com
-DOMAIN-SUFFIX,truthsocial.com
-DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN,lens.l.google.com
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,iheart.com
-# DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,hostloc.com
-DOMAIN-SUFFIX,ralphlauren.com
-DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,sspanel.net
-DOMAIN-SUFFIX,v2ex.com
 # > AppleNews
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,gateway.icloud.com
