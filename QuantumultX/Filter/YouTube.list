@@ -12,5 +12,5 @@ host-suffix,youtubekids.com,YouTube-C
 host-suffix,youtube-nocookie.com,YouTube-C
 host-suffix,yt.be,YouTube-C
 host-suffix,ytimg.com,YouTube-C
-host,youtubei.googleapis.com,YouTube-C
+host-suffix,googleapis.com,YouTube-C
 host,yt3.ggpht.com,YouTube-C
