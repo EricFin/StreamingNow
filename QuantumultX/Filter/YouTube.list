@@ -1,6 +1,7 @@
 # > YouTube-C
 user-agent,com.google.ios.youtube*,YouTube-C
 user-agent,YouTube*,YouTube-C
+user-agent,*youtube*,YouTube-C
 host-suffix,googlevideo.com,YouTube-C
 host-suffix,withyoutube.com,YouTube-C
 host-suffix,youtu.be,YouTube-C
