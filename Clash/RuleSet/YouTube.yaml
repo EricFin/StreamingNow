@@ -12,5 +12,5 @@ payload:
   - DOMAIN-SUFFIX,youtube-nocookie.com
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN,youtubei.googleapis.com
+  - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN,yt3.ggpht.com
