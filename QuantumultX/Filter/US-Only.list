@@ -9,6 +9,24 @@ HOST-SUFFIX,gitbook.io,US-Only-C
 HOST-SUFFIX,discord.gg,US-Only-C
 HOST-SUFFIX,duolingo.com,US-Only-C
 HOST-SUFFIX,duolingo.cn,US-Only-C
+HOST-SUFFIX,trakt.tv,US-Only-C
+HOST-SUFFIX,gamestop.com,US-Only-C
+HOST-SUFFIX,truthsocial.com,US-Only-C
+HOST-SUFFIX,v2rayssr.com,US-Only-C
+HOST,lens.l.google.com,US-Only-C
+HOST-SUFFIX,skype.com,US-Only-C
+HOST-SUFFIX,iheart.com,US-Only-C
+# HOST-SUFFIX,live.com,US-Only-C
+HOST-SUFFIX,hostloc.com,US-Only-C
+HOST-SUFFIX,ralphlauren.com,US-Only-C
+HOST-SUFFIX,imdb.com,US-Only-C
+HOST-SUFFIX,github.com,US-Only-C
+HOST-SUFFIX,sspanel.net,US-Only-C
+HOST-SUFFIX,v2ex.com,US-Only-C
+# > Reuters
+HOST-SUFFIX,reuters.com,US-Only-C
+HOST-SUFFIX,reutersmedia.net,US-Only-C
+HOST-SUFFIX,reuters.tv,US-Only-C
 # > qqmail
 HOST-SUFFIX,mail.qq.com,US-Only-C
 # > ted
@@ -28,21 +46,6 @@ HOST-SUFFIX,phncdn.com,US-Only-C
 HOST-SUFFIX,pornhub.com,US-Only-C
 HOST-SUFFIX,pornhubpremium.com,US-Only-C
 HOST-KEYWORD,porn,US-Only-C
-# > US-Only
-HOST-SUFFIX,trakt.tv,US-Only-C
-HOST-SUFFIX,gamestop.com,US-Only-C
-HOST-SUFFIX,truthsocial.com,US-Only-C
-HOST-SUFFIX,v2rayssr.com,US-Only-C
-HOST,lens.l.google.com,US-Only-C
-HOST-SUFFIX,skype.com,US-Only-C
-HOST-SUFFIX,iheart.com,US-Only-C
-# HOST-SUFFIX,live.com,US-Only-C
-HOST-SUFFIX,hostloc.com,US-Only-C
-HOST-SUFFIX,ralphlauren.com,US-Only-C
-HOST-SUFFIX,imdb.com,US-Only-C
-HOST-SUFFIX,github.com,US-Only-C
-HOST-SUFFIX,sspanel.net,US-Only-C
-HOST-SUFFIX,v2ex.com,US-Only-C
 # > AppleNews
 HOST,apple.comscoreresearch.com,US-Only-C
 HOST,gateway.icloud.com,US-Only-C
