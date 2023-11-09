@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN,main-asianreview-nikkei.content.pugpig.com
   - DOMAIN-SUFFIX,truthsocial.com
+  - DOMAIN-SUFFIX,trk.bonsa.net
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN,lens.l.google.com
   - DOMAIN-SUFFIX,skype.com
