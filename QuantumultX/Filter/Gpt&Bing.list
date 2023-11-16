@@ -1,3 +1,5 @@
 # > Gpt&Bing-C
 host-suffix,openai.com ,Gpt&Bing-C
+host-suffix,oaistatic.com ,Gpt&Bing-C
+host-suffix,oaiusercontent.com ,Gpt&Bing-C
 host-suffix,bing.com ,Gpt&Bing-C
