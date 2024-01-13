@@ -1,4 +1,10 @@
 domain:openai.com
 domain:oaistatic.com
 domain:oaiusercontent.com
+full:cdn.auth0.com
+full:challenges.cloudflare.com
+full:openaiapi-site.azureedge.net
+domain:ai.com
+domain:identrust.com
 domain:sentry.io
+domain:stripe.com
