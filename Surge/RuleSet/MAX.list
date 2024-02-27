@@ -1,6 +1,6 @@
 # > HBOMAXAST,仅做hbomax登录的认证
-DOMAIN-SUFFIX,api.hbo.com
-DOMAIN,play.hbomax.com
+#DOMAIN-SUFFIX,api.hbo.com
+#DOMAIN,play.hbomax.com
 # > HBO NOW & Max
 USER-AGENT,HBO%20NOW*
 DOMAIN-SUFFIX,hbo.com
