@@ -2,11 +2,11 @@
 host-suffix,max.com,MAX-C
 host-suffix,discomax.com,MAX-C
 # > HBOMax-C
-user-agent,HBO%20NOW*,HBOMax-C
-user-agent,HBOMAX*,HBOMax-C
-host-suffix,hbo.com,HBOMax-C
-host-suffix,hbogo.com,HBOMax-C
-host-suffix,hbonow.com,HBOMax-C
-host-suffix,hbomax.com,HBOMax-C
-host-suffix,hbomaxcdn.com,HBOMax-C
-host-suffix,discomax.com,HBOMax-C
+user-agent,HBO%20NOW*,MAX-C
+user-agent,HBOMAX*,MAX-C
+host-suffix,hbo.com,MAX-C
+host-suffix,hbogo.com,MAX-C
+host-suffix,hbonow.com,MAX-C
+host-suffix,hbomax.com,MAX-C
+host-suffix,hbomaxcdn.com,MAX-C
+host-suffix,discomax.com,MAX-C
