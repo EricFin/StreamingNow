@@ -1,3 +1,12 @@
 # > MAX-C
 host-suffix,max.com,MAX-C
 host-suffix,discomax.com,MAX-C
+# > HBOMax-C
+user-agent,HBO%20NOW*,HBOMax-C
+user-agent,HBOMAX*,HBOMax-C
+host-suffix,hbo.com,HBOMax-C
+host-suffix,hbogo.com,HBOMax-C
+host-suffix,hbonow.com,HBOMax-C
+host-suffix,hbomax.com,HBOMax-C
+host-suffix,hbomaxcdn.com,HBOMax-C
+host-suffix,discomax.com,HBOMax-C
