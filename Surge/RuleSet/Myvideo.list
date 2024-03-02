@@ -1,3 +1,3 @@
 # > MyVideo
-DOMAIN,cdn.plyr.io
-DOMAIN,myvideo.net.tw
+DOMAIN-SUFFIX,cdn.plyr.io
+DOMAIN-SUFFIX,myvideo.net.tw
