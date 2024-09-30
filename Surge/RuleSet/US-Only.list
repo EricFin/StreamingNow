@@ -1,6 +1,7 @@
 # Amazon Music Japan
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,music.amazon.dev
+DOMAIN-SUFFIX,music.amazon.com
 DOMAIN-SUFFIX,amazon.co.jp
 # > other
 DOMAIN-SUFFIX,starz.com
