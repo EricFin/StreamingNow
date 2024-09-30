@@ -1,12 +1,12 @@
 # > AbemaTV
-USER-AGENT,AbemaTV*,AbemaTV-C
-DOMAIN-SUFFIX,abema.io,AbemaTV-C
-DOMAIN-SUFFIX,abema.tv,AbemaTV-C
-DOMAIN-SUFFIX,abema-tv.com,AbemaTV-C
-DOMAIN-SUFFIX,ameba.jp,AbemaTV-C
-DOMAIN-SUFFIX,hayabusa.io,AbemaTV-C
-DOMAIN-SUFFIX,hayabusa.media,AbemaTV-C
-DOMAIN,api-abematv.bucketeer.jp,AbemaTV-C
-DOMAIN-KEYWORD,abematv.akamaized.net,AbemaTV-C
+USER-AGENT,AbemaTV*
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
+DOMAIN,api-abematv.bucketeer.jp
+DOMAIN-KEYWORD,abematv.akamaized.net
 # > 乐天杂志
 DOMAIN-KEYWORD,rakuten.co.jp
