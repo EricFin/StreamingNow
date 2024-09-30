@@ -1,6 +1,7 @@
 # Amazon Music Japan
 DOMAIN-SUFFIX,media-amazon.com,US-Only-C
 DOMAIN-SUFFIX,music.amazon.dev,US-Only-C
+DOMAIN-SUFFIX,music.amazon.com,US-Only-C
 DOMAIN-SUFFIX,amazon.co.jp,US-Only-C
 # > other
 HOST-SUFFIX,gvfaka.com,US-Only-C
