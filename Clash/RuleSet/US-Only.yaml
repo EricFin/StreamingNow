@@ -1,5 +1,6 @@
 payload:
   # > US-Only
+  - DOMAIN,ssl.host.mw
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,music.amazon.dev
   - DOMAIN-SUFFIX,music.amazon.com
