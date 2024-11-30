@@ -1,5 +1,7 @@
 # > other
 DOMAIN,ssl.host.mw
+DOMAIN-SUFFIX,paramount.tech
+DOMAIN-SUFFIX,mtvnservices.com
 DOMAIN-SUFFIX,starz.com
 DOMAIN-SUFFIX,lionsgateplus.com
 DOMAIN-SUFFIX,mgmplus.com
