@@ -1,4 +1,6 @@
 # > other
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoom.com.cn
 DOMAIN,ssl.host.mw
 DOMAIN-SUFFIX,viacomcbs.digital
 DOMAIN-SUFFIX,paramount.tech
