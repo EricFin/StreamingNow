@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,music.amazon.com,US-Only-C
 DOMAIN-SUFFIX,music.amazon.co.jp,US-Only-C
 DOMAIN-SUFFIX,amazon.co.jp,US-Only-C
 # > other
+DOMAIN-SUFFIX,githubusercontent.com,US-Only-C
 DOMAIN-SUFFIX,github.com,US-Only-C
 DOMAIN-SUFFIX,sora.com,US-Only-C
 DOMAIN-SUFFIX,tannerv.com,US-Only-C
