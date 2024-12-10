@@ -5,6 +5,11 @@ DOMAIN-SUFFIX,music.amazon.com,US-Only-C
 DOMAIN-SUFFIX,music.amazon.co.jp,US-Only-C
 DOMAIN-SUFFIX,amazon.co.jp,US-Only-C
 # > other
+DOMAIN-SUFFIX,github.com,US-Only-C
+DOMAIN-SUFFIX,sora.com,US-Only-C
+DOMAIN-SUFFIX,tannerv.com,US-Only-C
+DOMAIN-SUFFIX,zoom.us,US-Only-C
+DOMAIN-SUFFIX,zoom.com.cn,US-Only-C
 HOST,ssl.host.mw,US-Only-C
 HOST-SUFFIX,gvfaka.com,US-Only-C
 HOST-SUFFIX,aljazeera.com,US-Only-C
