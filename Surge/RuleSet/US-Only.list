@@ -63,14 +63,15 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-KEYWORD,porn
 # > AppleNews
-DOMAIN,apple.comscoreresearch.com
 DOMAIN,gateway.icloud.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
+# > AppleNews other
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-assets.apple.com
 DOMAIN,news-client-search.apple.com
 DOMAIN,news-client.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
 DOMAIN-SUFFIX,apple.news
 PROCESS-NAME,news
 DOMAIN,apple-relay.apple.com
