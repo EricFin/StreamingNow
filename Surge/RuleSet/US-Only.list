@@ -75,6 +75,8 @@ DOMAIN,news-client.apple.com
 DOMAIN,news-sports-events.apple.com
 DOMAIN,news-todayconfig-edge.apple.com
 DOMAIN,newsletter-edge.apple.com
+DOMAIN,news-app-events.apple.com
+DOMAIN,news.iadsdk.apple.com
 DOMAIN-SUFFIX,apple.news
 PROCESS-NAME,news
 DOMAIN,apple-relay.apple.com
