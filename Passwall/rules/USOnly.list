@@ -56,6 +56,6 @@ domain:trakt.tv
 domain:gamestop.com
 domain:v2rayssr.com
 # Amazon Music Japan
-DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,music.amazon.dev
-DOMAIN-SUFFIX,amazon.co.jp
+domain:media-amazon.com
+domain:music.amazon.dev
+domain:amazon.co.jp
