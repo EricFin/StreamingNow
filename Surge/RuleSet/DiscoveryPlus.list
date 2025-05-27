@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,discoveryplus.co.uk
 DOMAIN-SUFFIX,discoveryplus.com
 DOMAIN-SUFFIX,discoveryplus.in
 DOMAIN-SUFFIX,dnitv.com
-DOMAIN-SUFFIX,uplynk.com
 DOMAIN-KEYWORD,discovery.uplynk.com
+DOMAIN,x-default-stgec.uplynk.com
 USER-AGENT,DPlus*
 USER-AGENT,discovery+*
